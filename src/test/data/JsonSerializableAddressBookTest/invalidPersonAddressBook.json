@@ -1,8 +1,9 @@
 {
   "persons": [ {
-    "name": "Hans M@ster",
+    "name": "Hans Muster",
     "nric" : "S0000567P",
     "phone": "9482424",
+    "email": "invalid@email!3e",
     "address": "4th street"
   } ]
 }
